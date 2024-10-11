@@ -1,25 +1,20 @@
-Tugas Pengganti UTS PBD
+# WEB-GIS-PRO
 
-Perangkat lunak yang akan dikembangkan adalah perangkat lunak WEB GIS-PRO merupakan perangkat lunak yang digunakan untuk mempermudah mencari info letak geografi. Aplikasi ini dapat melakukan hal-hal berikut ini :
+## Description
+WEB-GIS-PRO is a web application designed for managing geographic information. It allows users to input, manage, and visualize data related to buildings and geographical locations.
 
-Admin dapat membuat akun baru
+## Features
+- User role management (Admin and Operator)
+- Data input and management for geographic information
+- Interactive map visualization
 
-Admin dapat memasukan data bangunan
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- [Include any additional frameworks or libraries used]
 
-Admin dapat memasukan data bidang
-
-Admin dapat memasukan data geojson
-
-Admin dapat melihat peta
-
-Admin dapat memasukan data dokumentasi
-
-Operator dapat memasukan data bangunan
-
-Operator dapat memasukan data bidang
-
-Operator dapat memasukan data dokumentasi
-
-Operator dapat melihat peta
-
-User dapat melihat peta
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/irgantaraa/-WEB-GIS-PRO.git
