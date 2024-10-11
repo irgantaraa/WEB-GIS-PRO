@@ -32,5 +32,5 @@ WEB-GIS-PRO is a web application designed for managing geographic information. I
 -username : user
 -password : user
 
-## database name: 
+## Database Name: 
 web_gis
