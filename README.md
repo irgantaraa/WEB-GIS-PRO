@@ -19,17 +19,17 @@ WEB-GIS-PRO is a web application designed for managing geographic information. I
    ```bash
    git clone https://github.com/irgantaraa/-WEB-GIS-PRO.git
 
-Catatam
-Level 1 (admin)
-username : admin
-password : admin
+# Catatam
+1. Level 1 (admin)
+-username : admin
+-password : admin
 
-Level 2 (operator)
-username : operator
-passowrd : operator
+2. Level 2 (operator)
+-username : operator
+-passowrd : operator
 
-Level 3 (user)
-username : user
-password : user
+3. Level 3 (user)
+-username : user
+-password : user
 
 database name : web_gis
